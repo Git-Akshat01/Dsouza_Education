@@ -16,7 +16,7 @@ We use Oracle DB for Database and Java for the Backend and Make GUI using the Ne
 We used NetBeans IDE for GUI because it is user-friendly & has various kinds of features which is easy to use for a developer.
 ## Video
 
-Landing Page ![Main Page](https://github.com/Git-Akshat01/Dsouza_Education/tree/main/Video%20and%20Screenshots)
+Landing Page ![Main Page](https://github.com/Git-Akshat01/Dsouza_Education/blob/main/Video%20and%20Screenshots/recording-2022-11-16-02-07-19.webm)
 Login page ![LoginPage](https://github.com/Git-Akshat01/Dsouza_Education/blob/main/Video%20and%20Screenshots/Screenshot%20login.png)
 
 
