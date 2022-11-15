@@ -1,4 +1,4 @@
-# School Result Management Application
+# Dsouza Education
 
 
 Now a days as the technology has up scaled so there is a new era of managing and handling all the records in a system present in a local drive rather than the traditional way of managing records and data.
