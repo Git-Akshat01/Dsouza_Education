@@ -1,19 +1,18 @@
 # Dsouza Education
 
 
-Now a days as the technology has up scaled so there is a new era of managing and handling all the records in a system present in a local drive rather than the traditional way of managing records and data.
+Now a days as the technology has up scaled so the concept of online education has seen a potential growth. Mainly focusing on this aspect i had developed a online 
+education website for Dsouza Education.
+
+So this project is dedicated to Education and Courses listing their courses and content.
 
 
-So this project is dedicated to simple but most important concepts implementation of Core Java and the concepts of Advance Java.
+Through the help of this website they can easily reachout to people and sell their courses for the benefit of students and the education society.
 
 
-In this project we perform the simple but most useful CRUD operations that are useful in the any Application.
+This website will be soon be deployed.
 
 
-We use Oracle DB for Database and Java for the Backend and Make GUI using the NetBeans IDE.
-
-
-We used NetBeans IDE for GUI because it is user-friendly & has various kinds of features which is easy to use for a developer.
 ## Video
 
 
@@ -37,7 +36,7 @@ Login page ![LoginPage](https://github.com/Git-Akshat01/Dsouza_Education/blob/ma
 Clone the project
 
 ```bash
-  git clone https://github.com/Git-Akshat01/School_mgmt_java
+  git clone https://github.com/Git-Akshat01/Dsouza_Education
 ```
 
 Go to the project directory
@@ -65,13 +64,16 @@ Start the server
 
 ## Tech Stack
 
-**Backend:** JAVA
+**Frontend:** Html5, CSS, Js, Bootstrap
+
+**Backend:** JAVA, Jsp
 
 **Databases:** Oracle, Mysql
 
-**IDE:** Netbeans
 
 **Libraries:** Ojdbc5.jar, Ojdbc6.jar, Ojdbc6_g.jar, JDK 1.8, mysql-connector-java-8.0.2
+
+
 # 💻Technology Used
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
