@@ -82,15 +82,6 @@ Start the server
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
-# 💫About Me :
-### Hello! I am Akshat Tiwari
-🔭 I’m currently working on my Skills.
-🌱 I’m currently learning more about Java Development and Web Development.
-🤔 I’m looking for help with Exploring New Technologies.
-💬 Ask me about any tech-related stuff.
-📫 How to reach me: Email - tiwariakshatat2001@gmail.com
-😄 Pronouns: He/His
-⚡ Fun fact: My favourite song is Infinity by Jaymes Young.
 
 ## Support
 
